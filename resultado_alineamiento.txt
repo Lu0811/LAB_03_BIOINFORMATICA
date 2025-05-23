@@ -1,0 +1,17 @@
+(i) Valor mayor (score máximo): 18
+(ii) Subsecuencia en común: GACTTA
+(iii) Posición en la Secuencia 1: 0 a 5
+(iii) Posición en la Secuencia 2: 3 a 9
+
+(iv) Matriz de scores:
+0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	5	1	5	1	0	0	0	0	0	0	
+0	0	1	2	1	10	6	2	0	0	5	1	
+0	5	1	0	0	6	7	3	0	5	1	2	
+0	1	2	6	2	2	3	12	8	4	2	6	
+0	0	0	7	3	0	0	8	17	13	9	7	
+0	0	0	3	4	8	5	4	13	14	18	14	
+0	5	1	0	0	4	5	2	9	18	14	15	
+
+(v) ¿Existe alguna otra subsecuencia con el mismo valor?: Sí
+ - Subsecuencia: GACTTC desde posición 0
